@@ -11,7 +11,7 @@ Information Assisted Dictionary Learning
     | +------------------------------------------------------------------------+ |
     +----------------------------------------------------------------------------+
   
-     If the last message did not provide you the reassurance enough. Please,
+     If the last message did not provide you reassurance enough. Please,
      take a piece of cake:
 
 	                 $                          

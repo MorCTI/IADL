@@ -5,8 +5,7 @@ Information Assisted Dictionary Learning
     | +------------------------------------------------------------------------+ |    
     | |      Ups...  Sorry, but this repository is still under construction.   | |
     | |                                                                        | |
-    | |      Therefore, we invite you to check new actualizations of this      | |
-    | |   document later.                                                      | |
+    | |      Therefore, we invite you to check new actualizations soon  ;b     | |
     | |                                                                        | |
     | +------------------------------------------------------------------------+ |
     +----------------------------------------------------------------------------+
